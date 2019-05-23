@@ -1,0 +1,5 @@
+export default {
+    SHEET_ID: "1ibPphSmz6n2MMm070i6yB1mQG0EZw955B0foGGxSSig",
+    SHEET_RANGE: "Sheet1!A2:E30",
+    GOOGLE_API_KEY: "AIzaSyBaIY1644EwBU-wLNs_xubrjPnY8oiarOk"
+};

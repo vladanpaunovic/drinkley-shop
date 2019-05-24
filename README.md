@@ -1,4 +1,4 @@
-# Drinks store
+# Drinkley shop
 
 ## Instalation
 
